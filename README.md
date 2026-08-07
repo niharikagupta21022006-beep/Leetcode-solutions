@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
