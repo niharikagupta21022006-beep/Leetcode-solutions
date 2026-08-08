@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -49,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
