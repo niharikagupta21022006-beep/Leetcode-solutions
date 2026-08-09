@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0155-min-stack) |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
