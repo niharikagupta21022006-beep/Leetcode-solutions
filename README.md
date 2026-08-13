@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
