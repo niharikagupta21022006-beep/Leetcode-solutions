@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
