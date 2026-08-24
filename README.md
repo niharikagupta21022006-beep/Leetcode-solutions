@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Doubly-Linked List
