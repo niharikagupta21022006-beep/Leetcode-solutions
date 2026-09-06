@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
