@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
