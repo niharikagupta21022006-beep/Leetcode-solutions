@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
