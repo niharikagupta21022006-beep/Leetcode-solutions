@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
