@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1528-shuffle-string) |
