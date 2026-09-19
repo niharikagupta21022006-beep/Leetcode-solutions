@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
