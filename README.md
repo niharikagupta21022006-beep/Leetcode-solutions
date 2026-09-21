@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
