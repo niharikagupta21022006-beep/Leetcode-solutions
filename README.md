@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
