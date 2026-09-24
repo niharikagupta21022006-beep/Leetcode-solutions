@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
