@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
