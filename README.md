@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
