@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
@@ -372,9 +374,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
