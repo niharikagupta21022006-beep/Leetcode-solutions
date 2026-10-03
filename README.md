@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
@@ -361,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
