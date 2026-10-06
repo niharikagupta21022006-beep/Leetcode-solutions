@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0709-to-lower-case](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -394,5 +398,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
