@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
