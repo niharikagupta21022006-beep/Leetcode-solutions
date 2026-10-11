@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
