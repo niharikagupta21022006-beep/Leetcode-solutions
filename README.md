@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
