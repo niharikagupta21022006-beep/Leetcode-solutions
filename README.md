@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1035-uncrossed-lines](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1035-uncrossed-lines](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
