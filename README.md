@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
