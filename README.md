@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1472-design-browser-history](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Math
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
