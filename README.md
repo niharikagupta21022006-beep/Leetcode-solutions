@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0994-rotting-oranges) |
