@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1905-count-sub-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1920-build-array-from-permutation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1905-count-sub-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1905-count-sub-islands) |
 ## Number Theory
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
