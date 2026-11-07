@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/0342-power-of-four) |
