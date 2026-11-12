@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/niharikagupta21022006-beep/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
