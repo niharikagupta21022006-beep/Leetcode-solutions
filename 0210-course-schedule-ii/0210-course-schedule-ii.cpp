@@ -1,50 +1,54 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
 
-        for (int i = 0; i < prerequisites.size(); i++) {
-            int u = prerequisites[i][1];
-            int v = prerequisites[i][0];
+    bool dfs(int node, vector<vector<int>>& adj,vector<int>& visited,vector<int>& pathVisited, vector<int>& answer){
+        visited[node] = 1;
+        pathVisited[node] = 1;
 
-            adj[u].push_back(v);
-        }
+        for(int i = 0;i < adj[node].size();i++){
+            int neighbour = adj[node][i];
 
-        vector<int> visited(numCourses, 0);
-        vector<int> pathVisited(numCourses, 0);
-        vector<int> ans;
-
-        function<bool(int)> dfs = [&](int node) {
-            visited[node] = 1;
-            pathVisited[node] = 1;
-
-            for (int neighbor : adj[node]) {
-
-                if (visited[neighbor] == 0) {
-                    if (dfs(neighbor) == false) {
-                        return false;
-                    }
-                } else if (pathVisited[neighbor] == 1) {
-                    return false;
-                }
+            if(pathVisited[neighbour] == 1){
+                return true;
+                
             }
 
-            pathVisited[node] = 0;
-            ans.push_back(node);
+            if(visited[neighbour] == 0){
+                if(dfs(neighbour,adj,visited,pathVisited,answer)){
+                    return true;
+                }
+            }
+        }
+        answer.push_back(node);
 
-            return true;
-        };
+        pathVisited[node] = 0;
+        
+        return false;
+    }
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        vector<int> visited(numCourses, 0);
+        vector<int> pathVisited(numCourses, 0);
+        vector<int> answer;
 
-        for (int i = 0; i < numCourses; i++) {
-            if (visited[i] == 0) {
-                if (dfs(i) == false) {
+        for (auto it : prerequisites) {
+            int a = it[0];
+            int b = it[1];
+
+            adj[b].push_back(a);
+        }
+
+        for(int i = 0; i <numCourses;i++){
+            if(visited[i] == 0){
+                if(dfs(i,adj,visited,pathVisited,answer)){
                     return {};
                 }
             }
         }
 
-        reverse(ans.begin(), ans.end());
+        reverse(answer.begin(),answer.end());
 
-        return ans;
+
+        return answer;
     }
 };
